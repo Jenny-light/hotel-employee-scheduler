@@ -1,5 +1,6 @@
- hotel-employee-scheduler
-A Google Sheets-based hotel staff schedule tracker with charts and dashboards.
+# hotel-employee-scheduler
+
+##A Google Sheets-based hotel staff schedule tracker with charts and dashboards.
 
 # Hotel Employee Work Schedule Tracker 📊
 
@@ -46,7 +47,7 @@ A simple employee scheduling tool built with *Google Sheets*, designed for hotel
 )
 
 ---
-<img width="1920" height="1080" alt="shift_summary png" src="https://github.com/user-attachments/assets/c1101529-cbcc-42b9-b1a2-abca5ef98dd9" /><img width="1920" height="1080" alt="shift_dashboard png" src="https://github.com/user-attachments/assets/858228c6-e1b4-4a6d-9929-4bfda3f43a13" /># 
+<img width="1920" height="1080" alt="shift_summary png" src="https://github.com/user-attachments/assets/c1101529-cbcc-42b9-b1a2-abca5ef98dd9" /><img width="1920" height="1080" alt="shift_dashboard png" src="https://github.com/user-attachments/assets/858228c6-e1b4-4a6d-9929-4bfda3f43a13" />
 ## 🙋‍♀ Author
 
 *Jennifer Omoregie*  
